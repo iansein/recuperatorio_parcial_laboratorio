@@ -1,0 +1,3 @@
+Profe tuve muchisimos problemas a la hora de ordenar por bibliotecas a las estructuras, hay algunas que me dejaba distribuirlas bien, y otras que que me tiraban error al compilar.
+Por esos errores fue que opte por poner todas las estructuras en una misma biblioteca. No se si sera un problema de eclipse. 
+Disculpe por eso.
